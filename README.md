@@ -11,11 +11,6 @@ I am a full-stack software developer.
   <a title="henryye@gmail.com" href="henryye@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
  </p>
 
-	
-<br>
-
-
-
 ##  <h3 align="left">Programming Language:</h3> 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go) ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-000?&logo=Java-lang) ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=yellow) ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
