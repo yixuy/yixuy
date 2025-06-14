@@ -2,7 +2,7 @@
  
 I am a full-stack software developer. 
 
-- 📫 How to reach me henryye@gmail.com
+- 📫 How to reach me henryyejob@gmail.com
 
 
 ##  <h3 align="left">Connect with me:</h3> 
