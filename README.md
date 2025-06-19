@@ -28,7 +28,7 @@ I am a full-stack software developer.
 
 ## Project
 
-###1. Next.js for rental housing:
+### 1. Next.js for rental housing:
 
 https://rental-app-nextjs-rouge.vercel.app/
 
