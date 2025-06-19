@@ -17,10 +17,19 @@ I am a full-stack software developer.
 
 
 ##  <h3 align="left">Frameworks:</h3>  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Express](https://img.shields.io/badge/-Express-000?&logo=Express) ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=Mongoose) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask) ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite) ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) ![MUI](https://img.shields.io/badge/-MUI-000?&logo=MUI) ![Formik](https://img.shields.io/badge/-Formik-000?&logo=Formik) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+
+![Next.js](https://img.shields.io/badge/-next.js-000?&logo=nextdotjs) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Express](https://img.shields.io/badge/-Express-000?&logo=Express) ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=Mongoose) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask) ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite) ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) ![MUI](https://img.shields.io/badge/-MUI-000?&logo=MUI) ![Formik](https://img.shields.io/badge/-Formik-000?&logo=Formik) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 
 
 ##  <h3 align="left">Tools & Platforms:</h3>  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ) ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku) ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello) ![Travis CI](https://img.shields.io/badge/-TravisCI-000?&logo=TravisCI) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ) ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku) ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello) ![Travis CI](https://img.shields.io/badge/-TravisCI-000?&logo=TravisCI) 
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 
-#### Project
+
+## Project
+
+###1. Next.js for rental housing:
+
+https://rental-app-nextjs-rouge.vercel.app/
+
+![alt text](image.png)
