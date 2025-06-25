@@ -22,9 +22,7 @@ I am a full-stack software developer.
 
 
 ##  <h3 align="left">Tools & Platforms:</h3>  
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ) ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku) ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello) ![Travis CI](https://img.shields.io/badge/-TravisCI-000?&logo=TravisCI) 
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
-
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ) ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku) ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello) ![Travis CI](https://img.shields.io/badge/-TravisCI-000?&logo=TravisCI) ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel) ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ## Project
 
